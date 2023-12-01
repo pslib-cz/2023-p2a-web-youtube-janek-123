@@ -8,23 +8,32 @@
     
 }
 .ytv__bottom {
-    
+   
 }
+
 .ytv__left {
-    
+   display: flex;
+   align-items: center;
+   gap: 1em;
 }
+
 .ytv__right {
-    
+    display: flex;
+    justify-content: space-around;
 }
+
 .profile {
-    
+   display: flex;
+   gap: 1em;
 }
+
 .profile__text {
     
 }
+
 .icon {
 
 }
 .btn--flex {
-    
+   
 }
