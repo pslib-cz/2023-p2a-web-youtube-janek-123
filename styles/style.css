@@ -31,7 +31,7 @@
 
 .ytv__right {
     display: flex;
-    gap: 1em;
+    gap: .7em;
 
     align-items: center;
 
