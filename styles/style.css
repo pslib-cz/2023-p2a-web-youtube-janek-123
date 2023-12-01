@@ -5,12 +5,15 @@
    display: flex;
    flex-wrap: wrap;
    justify-content: center;
+   align-content: center;
 }
 
 .ytv {
     display: flex;
     flex-direction: column;
     gap: 2em;
+
+    justify-content: space-between;
 }
 
 .ytv__bottom {
